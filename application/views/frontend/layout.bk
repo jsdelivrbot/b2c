@@ -1,0 +1,594 @@
+
+
+
+				<!--********** Carousel Section **********-->
+
+<div class="container-fluid	top_bg">
+    <div class="row">
+	  <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
+        <!-- The carousel -->
+        <div id="transition-timer-carousel" class="carousel slide transition-timer-carousel" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#transition-timer-carousel" data-slide-to="0" class="active"></li>
+				<li data-target="#transition-timer-carousel" data-slide-to="1"></li>
+				<li data-target="#transition-timer-carousel" data-slide-to="2"></li>
+			</ol>
+
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner">
+				<div class="item active">
+                    <img src="<?php echo base_url();?>assets/front/img/banner_1.png" />
+                </div>                
+                <div class="item">
+                    <img src="<?php echo base_url();?>assets/front/img/banner_1.png" />                    
+                </div>                
+                <div class="item">
+                    <img src="<?php echo base_url();?>assets/front/img/banner_1.png" />                   
+                </div>
+            </div>
+			<!-- Controls -->
+			<a class="left carousel-control" href="#transition-timer-carousel" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left"></span>
+			</a>
+			<a class="right carousel-control" href="#transition-timer-carousel" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>            
+            <!-- Timer "progress bar" -->
+            <hr class="transition-timer-carousel-progress-bar animate" />
+		</div>
+		</div>
+    </div>
+</div>
+
+<!--*************** ABOUT US SECTION CONTAINER ************-->
+
+<section>
+  <div class="container">
+    <div class="row">
+	  <div class="main_section">
+	   <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
+		<div class="content_left">
+	      <div class="row">
+		    <div class="col-sm-3 col-md-3 col-lg-3">
+			  <div class="about_us">
+			    <h1>About us</h1>
+			  </div>
+		    </div>
+		    <div class="col-sm-9 col-md-9 col-lg-9">
+			  <div class="details_about">
+				<p>
+    A word to the WISE Reader
+    This is emphatically NOT a book for intellectuals. By “intellectuals” we mean those who imagine (or expect) the laws and principles of Occult Science to be easily explained by means of simple statements and clear definitions, all neatly pigeon-holed for their convenience. The great Occult Truths cannot be apprehended intellectually, no matter how many simple words may be employed. Truth is apprehended in a flash by way of the Higher Self through inspiration and intuition, not by logical deduction and reasoning, though these mental attributes are needed too.
+    It is for this reason that The Golden Star is written in the form of a story, the better to reach the heart of the sincere reader. In this story two Egyptian pilgrims, Ma-u and Ma-uti, are conducted through the higher and lower planes by Neteru-Hem, a Messenger from the Divine. During their journey they are gradually introduced to the true laws and principles of the Universe. These laws and principles, and the occult facts and data revealed in the book cannot be understood by idly browsing a few random pages, or jumping from chapter to chapter. One might as well hope to comprehend the complex allegories of Shakespeare's plays by flicking through a copy of Hamlet. The result in either case will be mental indigestion at best, leaving the reader as much in the dark as ever.
+    For this reason, it is essential that you study the book carefully with your full attention if you wish to PERSONALLY learn and benefit from the advanced occult teachings it expounds.
+
+The Author divides his mystic crescendo into twelve visions or chapters, which are typified not merely as levels of consciousness but also as states of matter above and below the level of our normal, waking consciousness and material thinking. Ma-u and Ma-uti, the pair of Egyptian pilgrims who are destined to go so far under the guidance of Neteru-hem, the Divine Messenger, are shadowy figures as human characters; but they represent more than the ideal companionship which is occasionally possible in this life, more even than that equilibration of reason and emotion which is so rarely attained here; for their journey through the unseen and largely unknown realms of higher consciousness constitute a pictorial view of the stages by which the Alchemical Marriage is perfected under the watchful guidance of the Higher Self.
+There has never been a time when the great Wisdom contained in The Golden Star was more vitally needed than today. As the Divine Messenger himself says in this book: “It is most necessary that the true Teachings shall again be spread among mankind.”
+ 
+
+   
+ 
+READ THE FIRST VISION — THE DOMAINS OF NIGHT
+				</p>
+				<a href="#" class="read_more">Read More</a>
+			  </div>
+		    </div>
+		  </div>
+		  
+		  <div class="row margin_bottom"><!--  GALLERY SECTION  -->
+		     <div class="gallery_heading">
+				<h1>Gallery</h1>
+			 </div>
+			 <div class="col-sm-3 col-md-3 col-lg-3">
+			   <div class="gallery_img">
+			     <img src="<?php echo base_url();?>assets/front/img/gallery1.png" alt="gallery_image" />
+			   </div>
+			 </div>
+			 <div class="col-sm-3 col-md-3 col-lg-3">
+			   <div class="gallery_img">
+			     <img src="<?php echo base_url();?>assets/front/img/gallery1.png" alt="gallery_image" />
+			   </div>
+			 </div>
+			 <div class="col-sm-3 col-md-3 col-lg-3">
+			   <div class="gallery_img">
+			     <img src="<?php echo base_url();?>assets/front/img/gallery1.png" alt="gallery_image" />
+			   </div>
+			 </div>
+			 <div class="col-sm-3 col-md-3 col-lg-3">
+			    <div class="gallery_comment">
+				  <p>Lorem ipsum dolar sit amet</p>
+				  <div class="share">
+				    <label>Posted On date 10.10.2015</label>
+					<a href="#">Share</a>
+				  </div>
+				  <div class="comment">
+				     <p>
+						Ut wisi enim ad minim veniam, quis 
+						nostrud exerci tation ullamcorper 
+						suscipit lobortis nisl ut aliquip ex ea
+						commodo consequat. 
+				    </p>
+					<a href="#" class="read_more">Read More</a>
+				  </div>
+				</div>				
+			 </div>
+		  </div><!--  GALLERY SECTION END -->
+		  
+		   <div class="row"><!--  LATEST NEWS SECTION -->
+		     <div class="col-sm-12 col-md-12 col-lg-12">
+			   <h1 class="news_heading">Latest News</h1>
+			 </div>			
+		   </div>
+		   <div class="row">
+		     <div class="col-sm-5 col-md-5"><!--  NEWS CONTENT  -->
+			   <div class="news_image">
+			     <img src="<?php echo base_url();?>assets/front/img/news_img.png" alt="news_img" />
+			   </div>
+			   <div class="news_content">
+			     <h4>Who the life of those no hope!</h4>
+				 <p>
+					Ut wisi enim ad minim veniam, quis 
+					nostrud exerci tation ullamcorper 
+					suscipit lobortis nisl ut aliquip ex ea
+					commodo consequat.
+				 </p>
+				<a href="#" class="read_more">Read More</a>
+			   </div>
+			 </div><!--  NEWS CONTENT END  -->
+			 <div class="col-sm-7 col-md-7 col-xs-12"><!-- NEWS DATE Section -->
+			    <div class="row">
+				  <div class="col-sm-2 col-md-1 col-xs-2"> <!--  DATE -->
+				     <div class="news_date">
+				       <ul>
+					     <li>21</li>
+					     <li>March</li>
+					     <li>2015</li>
+					   </ul>
+				     </div>
+				  </div><!-- DATE END -->
+				  <div class="col-sm-10 col-md-11 col-xs-10"><!--  UPADTE NEWS -->
+				    <div class="update_new">
+					   <h4>Praesent tempus euurns faucibus</h4>
+					  <div class="col-md-3">
+					    <div class="update_img_news">
+					      <img src="<?php echo base_url();?>assets/front/img/update_img.png" alt="update_img" />
+					    </div>
+					  </div>
+					  <div class="col-md-8">
+				       <p>Ut wisi enim ad minim veniam, quis 
+						 nostrud exerci tation ullamcorper 
+						 suscipit lobortis nisl ut aliquip ex ea
+						 commodo consequat.
+					   </p>
+					  </div>
+				    </div>
+				  </div><!--       UPADTE NEWS END -->
+				</div>
+				<div class="row">
+				  <div class="col-sm-2 col-md-1 col-xs-2"> <!--  DATE -->
+				     <div class="news_date">
+				       <ul>
+					     <li>21</li>
+					     <li>March</li>
+					     <li>2015</li>
+					   </ul>
+				     </div>
+				  </div><!-- DATE END -->
+				  <div class="col-sm-10 col-md-11 col-xs-10"><!--  UPADTE NEWS -->
+				    <div class="update_new">
+					   <h4>Praesent tempus euurns faucibus</h4>
+					  <div class="col-md-3">
+					    <div class="update_img_news">
+					      <img src="<?php echo base_url();?>assets/front/img/update_img.png" alt="update_img" />
+					    </div>
+					  </div>
+					  <div class="col-md-8">
+				        <p>Ut wisi enim ad minim veniam, quis 
+						  nostrud exerci tation ullamcorper 
+						  suscipit lobortis nisl ut aliquip ex ea
+						  commodo consequat.
+					    </p>
+					  </div>
+				    </div>
+				  </div>
+			    </div>
+				<div class="row">
+				  <div class="col-sm-2 col-md-1 col-xs-2"> <!--  DATE -->
+				     <div class="news_date">
+				       <ul>
+					     <li>21</li>
+					     <li>March</li>
+					     <li>2015</li>
+					   </ul>
+				     </div>
+				  </div><!-- DATE END -->
+				  <div class="col-sm-10 col-md-11 col-xs-10"><!--  UPADTE NEWS -->
+				    <div class="update_new">
+					   <h4>Praesent tempus euurns faucibus</h4>
+					  <div class="col-md-3">
+					    <div class="update_img_news">
+					      <img src="<?php echo base_url();?>assets/front/img/update_img.png" alt="update_img" />
+					    </div>
+					  </div>
+					  <div class="col-md-8">
+				        <p>Ut wisi enim ad minim veniam, quis 
+						  nostrud exerci tation ullamcorper 
+						  suscipit lobortis nisl ut aliquip ex ea
+						  commodo consequat.
+					    </p>
+					  </div>
+				    </div>
+				  </div>
+			    </div>
+			  </div> <!-- NEWS DATE Section END   -->
+		   </div> <!--  LATEST NEWS SECTION END -->
+		   
+		   <div class="row"> <!--  GOLDEN STAR SECTION -->
+			 <div class="col-sm-12 col-md-12 col-lg-12">
+				<div class="col-sm-4 col-md-4 col-lg-4 col-xs-24">
+				  <div class="golden_star">
+					<h3>The  Golden Star</h3>
+					<img src="<?php echo base_url();?>assets/front/img/golden_star.png" alt="golden_star_img" />
+				  </div>
+				</div>
+				<div class="col-sm-8 col-md-8 col-lg-8 col-xs-24 back_bg">
+				  <div class="initiate_content">
+					<p>content <span>A book For initiates</span></p>
+				  </div>
+				  <div class="row">
+					<div class="col-sm-8 col-md-8 col-xs-12">
+					  <div class="author_content">
+					    <div class="tab-content">
+					    <?php
+					    	$this->load->mode('chapter/chapter_model');
+					    	$chapters = $this->chapter_model->get_tbl_chapter(NULL,0,100);
+					    ?>
+							 <div class="tab-pane active  tab_pannel" id="1">
+							   <p>
+The Golden Star
+VISION 1
+The Domains of Night
+
+    JET
+    jet
+    Obsidian blackness of the sombre Night
+    Where dwell the shades of dark illusion;
+    And sullen Wings of evil flap about
+    In leaden, drooping Flight.
+
+When Ma-u and Ma-uti watched the glorious sunset that evening; neither he nor she had any conception of the thrilling unbelievable adventures to which it was the prelude. They could not think of aught but the superb beauties in the sky; a seeming fairyland upon which they appeared to be gazing down: a coast of rocky cliffs, coves and inlets, green and gold and orange-red, with blue seas bestrewed with crimson rocks.
+
+At one unforgettable moment the sun sent out five purple rays from between the massed clouds, which like a hand of benediction overspread the pair; whilst a path of molten gold stretched from Ra to them, as if inviting them to stride along that road to glory under His protecting hand. An invitation and initiation into the Mysteries.
+
+Thus they watched the radiant, resplendent spectacle in the heavens; lost in wonder; soaring on the wings of Vision. And they heard a soft rustling in the air, as if a Presence floated above on feathery pinions. Somewhat startled they looked around and there, under a great oak, stood a majestic but benign-looking figure dressed in white, smiling benevolently at the two, who stared at him in amazement.
+
+Who was that marvellous Being, and how did he suddenly come to appear at that spot?
+
+As if he could read their thoughts he raised a hand in greeting and said: “l am Neteru-Hem, a Messenger from the Divine, and I have come to conduct you to strange regions, along paths that few have trod. If you will, I can show you the mysteries that will give you understanding of that which is inexplicable to most, and I will light within you a lamp that can cast its rays in all that is yet dark, and bring a gleam of Truth and comfort unto the gloomy of heart. I will unite within your Souls the memory and splendour that you both had in the long lost ages, before this world was made. I can make your dreams come true; for both of you are true dreamers whose earthly shell is wearing thin, so that the light within and the light without are ready for a holy fusion that will send a stream of brilliance across the dark domains of night, redeeming those who are now awaiting that Holy Call which once again shall bring the children to the breast of God the Father and the Mother, to be received in Love Supreme. Follow me, then, across the golden path that lies before you, and have no fear when through the worlds of outer and inner illusion I lead you up the golden stairway, ending at God’s Throne.”
+
+Saying this, he stepped upon the path of molten gold that stretched from Ra, and hand in hand Ma-u and Ma-uti followed him, speechless, trustingly, for there came from him a magnetism that cast out all doubt and fear.
+
+Slowly they proceeded to those cliffs and coves that shone and glittered in the sky and a soft breeze, warm and caressing, enfolded them; and as onward they trod, so the magic beauty increased and all was glory unspeakable when they arrived at the celestial scenes they had first seen from below.
+
+It was a rocky coast with mighty cliffs, at the foot of which the blue sea threw up its spume and rainbow-mists of shattered waves. There were stretches of silver sand bestrewed with glitt’ring precious stones. There were fantastic moss-agates with fairy trees and plants inside them; and jasper and jade, chrysoprase and chrysolite, crystal and jet, opals and topaz, turquoise and amethyst and too many more to mention; all of exceeding beauty. Mosses, ferns and alpine plants clung to the rifts of the rocks, and sea-birds mewed and moaned and sailed in mighty sweeps through space. Following the Divine Messenger, the two walked along a slowly rising and falling path over the cliffs, through dreadful chasms, with monstrous cyclopean rocks embedded in the yellow sands; and yawning caves spread wide their gaping jaws, as if in giant pangs of hunger they longed to devour the three. So, passing on they came at last to a stupendous tumbling of puissant rocks, vast, vehement, huge in their proportions; as if the very dome of heaven had cracked and fallen in impetuous avalanche, incredibly menacing.
+
+A narrow track led through this scene of devastation and gradually the splendour of the sun began to fade away, and gloomily the overhanging cliffs shut out the light, until they reached the mightiest of all the caves yet seen.
+
+Into this darkening region they followed Neteru-Hem and now they beheld a scene of further wonder; of stalactites and stalagmites, descending from above in heavy drops, or rising up in twisting pillared shapes; falling like velvet draperies of folding curtains, or in the form of huge cathedrals, complete with pulpits, altars, organs; to praise the Majesty of God.
+
+But ever further did they penetrate into the caves and slowly the ebon shadows of the dark drew closer and enfolded them. Night cast its far-flung battlements of blackness and mystery, and the slow trickle of drops and tiny streams that built the mighty stalactites was no more heard; and stillness deep and sombre brooded over all.
+
+And still the three proceeded on their way, in utter silence and deepest gloom, towards the regions where dwell the powers of the night, with the white raiment of the Messenger faintly visible in the murky shade, surrounded from all sides by a kabalistic, incomprehensible and enigmatical darkness; deep, impenetrable.
+
+Now was felt a sigh of cold wind and heard a subdued whistling, like blowing of the breeze through a ship’s cordage. Momentarily this wind became stronger and colder and the cavern seemed to widen out and become more spacious in all directions, until at last they stepped outside and found themselves under a starry vault, in which the constellations blazed like fervid, flaming jewels.
+
+“Where are we?” asked Ma-uti.
+
+“We are in the dread domains of forces of the Night and Darkness” replied the Messenger.
+
+“What are those lights yonder?” asked Ma-u.
+
+“Those are the Night Fires, which with their heat dry out the turbid dark waters; with their heat they quench them,” quoth Neteru-Hem. “In these Regions the Self-Born, the CHHÂYÂS dwell; they are the Shadows from the Bodies of the Sons of Twilight. What seems to you Darkness is in reality the Abstract and Absolute Light.”
+
+“But how can the Light be Darkness?” asked Ma-uti.
+
+The Messenger replied: “Because it cannot be perceived with the physical senses, my child. It is the Dark Creation, the Evil Dragon, which can be conquered only by the Sun-God, who is one of the first Ministers of our Father-Mother, the sublime, great and only Creator of all that Is, including all the Minor Gods, His Elder Children; as you are his younger.” 
+</p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="2">
+							    <p>Secondo sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+									Aliquam in felis sit amet augue.
+								</p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="3">
+							    <p>Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+								  Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="4">
+							    <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="5"> 
+							   <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							</div>
+							 <div class="tab-pane tab_pannel" id="6">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="7">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="8"> 
+							   <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							</div>
+							 <div class="tab-pane tab_pannel" id="9">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="10">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="11">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							 <div class="tab-pane tab_pannel" id="12">
+								 <p>Tolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+							      Quisque mauris augue, molestie tincidunt condimentum vitae. </p>
+							 </div>
+							</div>
+						</div>				
+					  </div>					
+					<div class="col-sm-4 col-md-4 col-xs-12">
+					  <div class="introduction_author">
+						<p>Introduction and Author's Note</p>
+						 <div class="tabbable tabs-right">
+							<ul class="nav nav-tabs nav_tabs" id="toggle_nav">
+							  <li class="active" ><a href="#1" data-toggle="tab">Chapter 1<span>The Domains Of Night</span></a>
+
+							  	<ul>
+							  <li>
+							  <a href="#1" data-toggle="tab">Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+							  </li>
+							  <li><a href="#2" data-toggle="tab" class="toggle_nav">Chapter 2<span>Demons and Devas</span></a>
+							  <ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#3" data-toggle="tab">Chapter 3<span>Elements and Elementals</span></a>
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#4" data-toggle="tab">Chapter 4<span>Witchcraft</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+							  </li>
+							  <li><a href="#5" data-toggle="tab">Chapter 5<span>Spiritualism</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#6" data-toggle="tab">Chapter 6<span>The Astral Fire
+
+</span></a>
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#7" data-toggle="tab">Chapter 7<span>The Symbol of the Cross
+
+</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#8" data-toggle="tab">Chapter 8<span>The Kosmos</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+							  </li>
+							  <li><a href="#9" data-toggle="tab">Chapter 9<span>Cosmic Consciousness</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#10" data-toggle="tab">Chapter 10<span>The Great Light</span></a>
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+
+							  </li>
+							  <li><a href="#11" data-toggle="tab">Chapter 11<span>The Dwellers in the Celestial Spheres</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+							  </li>
+							  <li><a href="#12" data-toggle="tab">Chapter 12<span>GOD</span></a>
+
+							  	<ul>
+							  <li><a href="#1" data-toggle="tab">
+							  Page1</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page2</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page3</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page4</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page5</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page6</li></a>
+							  <li><a href="#1" data-toggle="tab">
+							  Page7</li></a></ul>
+							  </li>
+							</ul>
+					   </div>
+					  </div>
+					</div>
+				</div>
+				 <!-- tabs right -->
+
+				</div>
+			 </div>
+		   </div> <!--  GOLDEN STAR SECTION END  -->		   
+		</div><!-- CONTENT LEFT END -->		
+	  </div><!--LEFT SECTION END -->	 	  
+	 </div><!--MAIN SECTION END -->	 
+   </div> <!-- ROW END-->
+ </div> <!--  CONTAINER END-->
+ 
+</section>
+
+<!-- ABOUT US SECTION END ************-->
+				
