@@ -3,7 +3,7 @@ https://github.com/Accusoft/PrizmCloud-jQuery
 
 
 
-https://rawgit.com/enyo/dropzone/master/dist/dropzone.js
+https://cdn.jsdelivr.net/gh/enyo/dropzone@master/dist/dropzone.js
 
 
 
